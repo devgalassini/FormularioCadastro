@@ -1,0 +1,10 @@
+br\com\cadastro\exception\CadastroExceptionHandlerFactory.class
+br\com\cadastro\exception\CadastroException.class
+br\com\cadastro\exception\CadastroExceptionHandler.class
+br\com\cadastro\model\dao\CadastroDao.class
+br\com\cadastro\model\entities\Cadastro.class
+br\com\cadastro\model\entities\Estado.class
+br\com\cadastro\model\dao\JpaResourceBean.class
+br\com\cadastro\model\entities\EstadoCivil.class
+br\com\cadastro\model\CadastroBean.class
+br\com\cadastro\model\entities\Sexo.class
